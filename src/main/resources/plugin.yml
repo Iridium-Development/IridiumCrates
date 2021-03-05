@@ -1,0 +1,10 @@
+name: IridiumCrates
+version: 1.0.0
+description: A simple crates plugin
+main: com.iridium.iridiumcrates.IridiumCrates
+api-version: '1.13'
+author: Peaches_MLG
+commands:
+  crates:
+    aliases: [ "iridiumcrates" ]
+    description: Main plugin command
